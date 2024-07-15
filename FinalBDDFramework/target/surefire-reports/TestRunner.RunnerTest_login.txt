@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.RunnerTest_login
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 35.41 s -- in TestRunner.RunnerTest_login
